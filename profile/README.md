@@ -15,7 +15,7 @@
 
 - 📫 How to reach us **github-contact@dbuidl.com**
 
-- 📄 Legally, we're DBUIDL LIMITED (SC730458) [https://find-and-update.company-information.service.gov.uk/company/SC730458](https://find-and-update.company-information.service.gov.uk/company/SC730458)
+- 📄 Legally, we're [https://find-and-update.company-information.service.gov.uk/company/SC730458](DBUIDL LIMITED (SC730458))
 
 - 📍 We're based in **Scotland**
 
