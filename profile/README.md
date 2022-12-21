@@ -9,9 +9,7 @@
 
 - 👯 We're looking to collaborate on [ConfigDN](https://github.com/dBuidl/ConfigDN)
 
-- 🖥 You can find us at [DBuidl.com](https://dbuidl.com)
-
-- 👨‍💻 Our projects are available at [https://dbuidl.com](https://dbuidl.com)
+- 🖥 You can find us at [dBuidl.com](https://dbuidl.com)
 
 - 💬 Ask us about **Go, React and Hive (the Blockchain)**
 
