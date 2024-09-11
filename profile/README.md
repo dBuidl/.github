@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbuidl&label=Profile%20views&color=0e75b6&style=flat" alt="dbuidl" /> </p>
 
-- 🔭 We're currently working on [NFTMart](https://nftm.art)
+- 🔭 We're currently working on [Webmail Lookup](https://webmaillookup.com/)
 
 - 🌱 We're currently experimenting with **Pocketbase**
 
@@ -11,7 +11,7 @@
 
 - 🖥 You can find us at [dBuidl.com](https://dbuidl.com)
 
-- 💬 Ask us about **Go, React and Hive (the Blockchain)**
+- 💬 Ask us about **Go &amp; React**
 
 - 📫 How to reach us **github-contact@dbuidl.com**
 
